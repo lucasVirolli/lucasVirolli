@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hello, hello, hello!!! 👋
 
-Here are some ideas to get you started:
+My complete name is Lucas Virolli Dal Bello 👻, I'm vegetarian 🐷, I like to listen to rock'n roll 🤘 and I'm falling love to technology 🥰.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently looking for an internship to start putting my ideas and my knowledge in practice.
+- 🌱 I’m currently learning JavaScript, NodeJS, TypeScript and React. My next steps will be to learn more about back-end and Python.
+- 🙋‍♂️ If you liked something in here, have some suggestion, a recommendation, a project that I could help you, or just want make a new friend, send me some e-mail or a message on LinkedIn, I will enjoy answer you 🖖. Oh, to send me an e-mail or to go to my LinkedIn profile is just clicking on the logo under my github status in this description about me.
 
 <div align="center">
   <a href="https://github.com/lucasVirolli">
