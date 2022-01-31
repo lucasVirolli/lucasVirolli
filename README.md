@@ -2,7 +2,7 @@
 
 It's a pleasure to have you here. Let me introduce myself, I'm Lucas Virolli Dal Bello 👻, I'm a vegetarian 🐷, I like to listen to rock'n roll 🤘 and I'm falling in love with technology 🥰.
 
-- 🔭 I’m currently looking for an internship or a job to start putting my ideas and my knowledge into practice.
+- ✅ I’m currently working in a company called Target Sistemas (Target Systems) as an internship developer.
 - 💛 I’m currently learning JavaScript, NodeJS, TypeScript and React. My next steps will be learning more about back-end and Python.
 - 🙋‍♂️ If you like something in here, have some suggestion, a recommendation, a project that I could help you with, or just want to make a new friend, send me some e-mail or a message on LinkedIn, I will be happy to talk to you 🖖. Oh, to send me an e-mail or to go to my LinkedIn profile  just click on the logo under my github status in this description about me.
 
